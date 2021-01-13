@@ -1,5 +1,8 @@
 <p align="center">
   <img src="calculator.png" height="50px"/>
+  <br><br>
+  <b>A simple calculator with HTML + JS + CSS
+</b>
   <br>
 </p>
 
@@ -8,10 +11,6 @@
 #### Live Demo
 
 https://calculator-henna.vercel.app/
-
-&nbsp;
-
-A simple calculator with HTML + JS + CSS
 
 &nbsp;
 
